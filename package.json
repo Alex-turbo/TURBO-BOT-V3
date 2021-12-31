@@ -1,6 +1,6 @@
 {
 
-  "name": "turbo-bot",
+  "name": "kiran-bot",
 
   "version": "0.0.5",
   "description": "WhatsApp Bot Baileys",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://youtube.com/c/turbontr1?sub_confirmatión=1.git"
+    "url": "git+https://youtube.com/c/kiranmods?sub_confirmatión=1.git"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
@@ -63,10 +63,10 @@
     "start": "node start.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "TURBO",
+  "author": "KIRAN",
   "license": "MIT license",
   "bugs": {
-    "url": "https://youtube.com/c/turbontr1?sub_confirmatión=1/issues"
+    "url": "https://youtube.com/c/turbontr1https://youtube.com/c/kiranmods?sub_confirmatión=1/issues"
   },
-  "homepage": "https://youtube.com/c/turbontr1?sub_confirmatión=1/"
+  "homepage": "https://youtube.com/c/kiranmods?sub_confirmatión=1/"
 }
